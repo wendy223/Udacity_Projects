@@ -19,6 +19,9 @@ You can download the database [here](https://insights.stackoverflow.com/survey) 
 To run the jupyter notebook, you have to download the full data set for 2018 and 2019 from the above link. 
 
 ## Conclusions
+
 The detailed analysis and conclusion is posted in Medium: 
+
+[True Factors You Must Know about Programmers](https://medium.com/@wenqinyou223/true-factors-you-must-know-about-programmers-528085d5da2b)
 
 If you like my blog, feel free to give it a like.
