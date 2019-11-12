@@ -20,6 +20,14 @@ To run the jupyter notebook (stackoverflow.ipynb), you have to download the full
 
 ## Conclusions
 
+1. Generally speaking, larger company size and higher education level let you earn more.
+
+2. People majoring in the area of health science, natural science, computer science earn higher salaries.
+
+3. If you have never coded before, don’t worry about it. People with less coding experience can still earn a lot.
+
+4. Python language and PostgreSQL database are becoming more and more popular. If you want to break into this field, take action immediately and try to learn these two skillsets.
+
 The detailed analysis and conclusion is posted in Medium: 
 
 [True Factors You Must Know about Programmers](https://medium.com/@wenqinyou223/true-factors-you-must-know-about-programmers-528085d5da2b)
